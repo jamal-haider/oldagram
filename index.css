@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    
+}
+
+.logo{
+    width: 150px;
+}
+
+.avatar-header{
+    margin-top: 12px;
+}
+
+
+.avatar{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+
+#main{
+    background: #EDEDED;
+}
+
+.card{
+    background: white;
+    margin-bottom: 30px;
+    padding: 10px 0;
+}
+
+.card-top{
+    display: flex;
+    margin: 10px 10px;
+}
+
+.card-top h2{
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: 16pt;
+}
+.card-top h2 span{
+    display: block;
+    font-weight: 300;
+}
+
+.img-main{
+    width:100%;
+}
+
+.card-buttons{
+    display: flex;
+    margin-top: 10px;
+}
+
+.img-btn{
+    width: 50px;
+    margin: 0 8px;
+}
+
+.card p{
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+.card p span{
+    font-weight: 300;
+}
+
+
